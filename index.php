@@ -16,7 +16,7 @@
 			<header>
 				<h2>Plan something</h2>
 				<form>
-					<input class="form-control" type="text" maxlength="40" id="new-todo" placeholder="Learn jQuery" autofocus autocomplete="off">
+					<input class="form-control" type="text" maxlength="40" id="new-todo" placeholder="Learn Handlebars" autofocus autocomplete="off">
 				</form>
 			</header>
 			<section id="main">
